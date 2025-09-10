@@ -1,0 +1,12 @@
+
+1. Exploratory Data Analysis (EDA) Summary:
+
+- Dataset: Iris
+- Shape: (150, 6)
+- Columns: ['Id', 'SepalLengthCm', 'SepalWidthCm', 'PetalLengthCm', 'PetalWidthCm', 'Species']
+- Missing Values: None
+- Target Variable: Species
+- 3 Classes: Iris-setosa, Iris-versicolor, Iris-virginica
+- Insights:
+    - SepalLength and PetalLength are strongly correlated.
+    - Petal features separate classes better than Sepal.
